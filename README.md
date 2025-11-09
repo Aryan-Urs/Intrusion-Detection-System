@@ -8,7 +8,6 @@
   <li><b>DoS_attack_host.py</b> – Simulates a DoS attack by sending a large number of SYN packets to a target.</li>
   <li><b>README.md</b> – Project explanation and usage instructions.</li>
 </ul>
-
 <h2>How It Works</h2>
 <ul>
   <li>The attacker script (<code>DoS_attack_host.py</code>) sends multiple fake TCP SYN packets to the victim.</li>
